@@ -19,7 +19,7 @@ Unzip the file and copy the directory Multi-Dvs-Automator-VCF-4.3.0-master to /h
 ## Usage
 
 ```python
-root@sddc-manager [ /home/vcf/MultiDvsAutomator ]# python3 vxrailworkloadautomator.py
+root@sddc-manager [ /home/vcf/Multi-Dvs-Automator-VCF-4.3.0-master ]# python3 vxrailworkloadautomator.py
  Enter the SSO username: administrator@vsphere.local
  Enter the SSO password:
  Welcome to VxRail Workload Automator
