@@ -5,7 +5,7 @@
 
 ## Quick start
 
-Unzip the file and copy the directory MultiDvsAutomator to /home/vcf/ directory on the SDDC Manager VM.
+Unzip the file and copy the directory Multi-Dvs-Automator-VCF-4.3.0-master to /home/vcf/ directory on the SDDC Manager VM.
 
 
 > Please note that you are running the script in sddc-manager VM.
